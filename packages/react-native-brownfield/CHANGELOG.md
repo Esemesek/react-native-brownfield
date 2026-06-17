@@ -1,5 +1,12 @@
 # @callstack/react-native-brownfield
 
+## 3.13.0
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @callstack/brownfield-cli@3.13.0
+
 ## 3.12.0
 
 ### Minor Changes

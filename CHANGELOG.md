@@ -2,6 +2,17 @@
 
 _History prior to 3.7.0 is available in the per-package CHANGELOG files._
 
+## 3.13.0
+
+### Minor Changes
+
+- [#352](https://github.com/callstack/react-native-brownfield/pull/352) [`b451bb1`](https://github.com/callstack/react-native-brownfield/commit/b451bb18dffe3974e39537cc0c023ef634ff3152) Thanks [@alpharius-ck](https://github.com/alpharius-ck)! - e2e tests
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @callstack/brownfield-cli@3.13.0
+
 ## 3.12.0
 
 ### Minor Changes
